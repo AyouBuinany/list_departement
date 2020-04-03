@@ -1,0 +1,42 @@
+[
+     {
+          "Matricule": "3",
+          "id": 1,
+          "nom": "ocsfoot",
+          "Prenom": "EFB",
+          "Age": "34",
+          "salaire": "39999"
+     },
+     {
+          "Matricule": "3",
+          "id": 2,
+          "nom": "Ahmed",
+          "Prenom": "AAA",
+          "Age": "23",
+          "salaire": "20000 dh"
+     },
+     {
+          "Matricule": "1",
+          "id": 3,
+          "nom": "ABD",
+          "Prenom": "RHN",
+          "Age": "23",
+          "salaire": "10000 DH"
+     },
+     {
+          "Matricule": "1",
+          "id": 4,
+          "nom": "USA",
+          "Prenom": "yassine",
+          "Age": "20ans",
+          "salaire": "39999"
+     },
+     {
+          "Matricule": "6",
+          "id": 5,
+          "nom": "salim",
+          "Prenom": "salim",
+          "Age": "25 ans",
+          "salaire": "3000"
+     }
+]
